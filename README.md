@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aashish Sah and I'm a Full-Stack Developer, from Tinkune(KTM) - Nepal.</h2>
+<h2 align="left">Hi 👋! My name is Aashish Sah and I'm a Full-Stack Developer, from Nepal.</h2>
 
 ###
 
