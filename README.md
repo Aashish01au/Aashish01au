@@ -1,6 +1,6 @@
 <!-- MasterHead -->
-<a href="https://github.com/Aashish01au/Aashish01au/blob/main/fallout.gif">
-  <img src="https://github.com/Aashish01au/Aashish01au/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/Aashish01au/Aashish01au/blob/main/javtips.gif">
+  <img src="https://github.com/Aashish01au/Aashish01au/blob/main/javtips.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <!--<h1 align="left">
