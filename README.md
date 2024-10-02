@@ -8,7 +8,7 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Aashish Sah</h1>
 
-<h4 align="left">🌟I work on Front-End development and web designing when i am Bored while focusing on Data Science and Designing. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
+<h4 align="left">🌟I am currently pursuing a degree in computer science and focusing on programming skills, particularly in data science and web design. In my free time, I enjoy working on front-end development and web design. I am also exploring various areas of IT to gain extensive knowledge, with the ultimate goal of building a successful career and generating income💸. </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/Aashish01au/Aashish01au/blob/main/transparent_gitgif.gif">
