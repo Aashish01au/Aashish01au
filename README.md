@@ -2,14 +2,13 @@
 <a href="https://github.com/Aashish01au/Aashish01au/blob/main/javtips.gif">
   <img src="https://github.com/Aashish01au/Aashish01au/blob/main/javtips.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
+</h1>
+<h1>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Aashish01au!+Repository+🗃️;+Front-End+Web+Developer👋+;+Next.js+|+Vue.js+|+Java+Developer🔥+!;"  alt="Typing Animation" style="width:100%"/>
 </h1>
 <h1 align="center">Namaste 🙏 I'm Aashish Sah</h1>
 
-<h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
+<h4 align="left">🌟I work on Front-End development and web designing when i am Bored while focusing on Data Science and Designing. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/Aashish01au/Aashish01au/blob/main/transparent_gitgif.gif">
@@ -17,10 +16,10 @@
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+<h4> 🌱 I am currently working on my Skills and developing my programming skills.</br>
+ 🔭 I worked on Next.js Framework and Hands on experience in Front-End Web Developer.</br>
+ 💬 Ask me about Next.js framework, Front-End Web Developer, Vue.js, React, Java.</br>
+ ⚡ Interest in Full Stack Developer, Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
   <h3>🌟 Reach Me on:</h3>
 
